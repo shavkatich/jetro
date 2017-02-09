@@ -1,0 +1,13 @@
+@font-face {
+	font-family: 'BebasNeuewebfont';
+	src: local('fonts/BebasNeuewebfont'), 
+		url('fonts/BebasNeuewebfont/BebasNeuewebfont.woff') format('woff'), 
+		url('fonts//BebasNeuewebfont.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'HelveticaNeue';
+	src: local('fonts/HelveticaNeue'), 
+		url('fonts/HelveticaNeue/HelveticaNeue.woff') format('woff'), 
+		url('fonts//HelveticaNeue.ttf') format('truetype');
+}
